@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/DZ9C/1z/bin/Debug/net6.0/1z
+/Users/mariannasarkisan/DZ9C/1z/bin/Debug/net6.0/1z.deps.json
+/Users/mariannasarkisan/DZ9C/1z/bin/Debug/net6.0/1z.runtimeconfig.json
+/Users/mariannasarkisan/DZ9C/1z/bin/Debug/net6.0/1z.dll
+/Users/mariannasarkisan/DZ9C/1z/bin/Debug/net6.0/1z.pdb
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.AssemblyInfo.cs
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.dll
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/refint/1z.dll
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.pdb
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/1z.genruntimeconfig.cache
+/Users/mariannasarkisan/DZ9C/1z/obj/Debug/net6.0/ref/1z.dll
