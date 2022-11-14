@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Написать программу вычисления функции Аккермана
+int Ackermann(int M, int N)
+{
+    if (M == 0) return N + 1;
+    if (M > 0 && N == 0) return Ackermann(M - 1, 1);
+    if (M > 0 && N > 0) return Ackermann(M - 1, Ackermann(M, N - 1));
+    return Ackermann(M, N);
+}
+Console.Write("Введите первое число m: ");
+int M = int.Parse(Console.ReadLine() ?? "0");
+Console.Write("Введите второе число n: ");
+int N = int.Parse(Console.ReadLine() ?? "0");
+int res = Ackermann(M, N);
+Console.WriteLine($"Функция Аккермана = {res}");
